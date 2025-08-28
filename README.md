@@ -1,6 +1,6 @@
 # HmAllKill
 
-![HmAllKill v1.0.1](https://img.shields.io/badge/HmAllKill-v1.0.1-6479ff.svg)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/komiyamma/hm_allkill)](https://github.com/komiyamma/hm_allkill/releases/latest)
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg?style=flat)](LICENSE.txt)
 
 実行中のすべての「秀丸エディタ」および「秀丸常駐エディタ」を瞬時に終了させるためのコマンドラインツールです。
