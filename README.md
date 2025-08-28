@@ -40,3 +40,7 @@ HmAllKill.exe
 1. `HmAllKill.src/HmAllKill.sln` を Visual Studio 2022 で開きます。
 2. 「ソリューションのビルド」を実行します。
 3. `HmAllKill.src/HmAllKill/bin/Release/` に `HmAllKill.exe` が生成されます。
+
+## 詳細ページ
+
+[https://秀丸マクロ.net/?page=nobu_tool_hm_allkill](https://秀丸マクロ.net/?page=nobu_tool_hm_allkill)
