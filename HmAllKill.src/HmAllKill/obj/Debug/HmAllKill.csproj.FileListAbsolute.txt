@@ -1,0 +1,7 @@
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\bin\Debug\HmAllKill.exe.config
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\bin\Debug\HmAllKill.exe
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\bin\Debug\HmAllKill.pdb
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Debug\HmAllKill.csproj.AssemblyReference.cache
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Debug\HmAllKill.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Debug\HmAllKill.exe
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Debug\HmAllKill.pdb

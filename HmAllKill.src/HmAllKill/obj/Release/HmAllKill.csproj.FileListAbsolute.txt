@@ -2,3 +2,8 @@ C:\usr\web\hidemaru-net\win-hidemaru-app\hm_allkill\HmAllKill.src\HmAllKill\bin\
 C:\usr\web\hidemaru-net\win-hidemaru-app\hm_allkill\HmAllKill.src\HmAllKill\bin\Release\HmAllKill.exe
 C:\usr\web\hidemaru-net\win-hidemaru-app\hm_allkill\HmAllKill.src\HmAllKill\obj\Release\HmAllKill.csprojResolveAssemblyReference.cache
 C:\usr\web\hidemaru-net\win-hidemaru-app\hm_allkill\HmAllKill.src\HmAllKill\obj\Release\HmAllKill.exe
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\bin\Release\HmAllKill.exe.config
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\bin\Release\HmAllKill.exe
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Release\HmAllKill.csproj.AssemblyReference.cache
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Release\HmAllKill.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_allkill\HmAllKill.src\HmAllKill\obj\Release\HmAllKill.exe
