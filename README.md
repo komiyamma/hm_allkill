@@ -2,6 +2,8 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/komiyamma/hm_allkill)](https://github.com/komiyamma/hm_allkill/releases/latest)
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg?style=flat)](LICENSE.txt)
+
+
 実行中のすべての「秀丸エディタ」プロセス（`hidemaru.exe`）を一括終了させるコマンドラインツールです。
 
 ## 概要
